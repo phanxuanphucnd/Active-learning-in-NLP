@@ -1,0 +1,10 @@
+classifier_name: transformer
+classifier_kwargs:
+  transformer_model: distilroberta-base
+  mini_batch_size: 12
+  lr: 0.00002
+  incremental_training: True
+  scheduler: slanted
+  layerwise_gradient_decay: 0.95
+dataset_kwargs:
+  dataset_type: transformers

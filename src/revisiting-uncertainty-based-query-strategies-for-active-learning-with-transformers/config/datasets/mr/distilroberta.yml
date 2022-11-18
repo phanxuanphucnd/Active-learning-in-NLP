@@ -1,0 +1,4 @@
+classifier_kwargs:
+  num_epochs: 15
+dataset_kwargs:
+  max_length: 60

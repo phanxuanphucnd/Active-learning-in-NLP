@@ -1,0 +1,3 @@
+classifier_kwargs:
+  out_channels: 128
+  max_seq_len: 60

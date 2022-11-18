@@ -1,0 +1,7 @@
+*.p
+*.pyc
+*.txt
+*.pkl
+
+datasets/
+results/

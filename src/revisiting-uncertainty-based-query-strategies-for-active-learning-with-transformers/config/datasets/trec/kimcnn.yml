@@ -1,0 +1,4 @@
+classifier_kwargs:
+  out_channels: 50
+  max_seq_len: 40
+

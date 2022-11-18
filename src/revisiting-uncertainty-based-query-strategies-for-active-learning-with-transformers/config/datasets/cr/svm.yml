@@ -1,0 +1,3 @@
+classifier_kwargs:
+  linearsvc_kwargs:
+    C: 1.0
