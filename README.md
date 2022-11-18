@@ -16,7 +16,11 @@
 - Revisiting Uncertainty-based Query Strategies for
 Active Learning with Transformers, 2022, [Paper](https://arxiv.org/pdf/2107.05687.pdf) [Source code](https://github.com/webis-de/acl22-revisiting-uncertainty-based-query-strategies-for-active-learning-with-transformers)
 
+- AcTune: Uncertainty-Based Active Self-Training for Active Fine-Tuning of Pretrained Language Models, 2022, [Paper](https://aclanthology.org/2022.naacl-main.102/) [Source code](https://github.com/yueyu1030/actune)
+
 - Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates, 2021, [Paper](https://aclanthology.org/2021.eacl-main.145/)
+
+- Diversity-Aware Batch Active Learning for Dependency Parsing, 2021, [Paper](https://arxiv.org/pdf/2104.13936.pdf) [Source code](https://github.com/tzshi/dpp-al-parsing-naacl21)
 
 - Deep Bayesian Active Learning for Natural Language Processing:
 Results of a Large-Scale Empirical Study, 2018, [Paper](https://aclanthology.org/D18-1318.pdf) [Source code 1](https://github.com/asiddhant/Active-NLP) [2](https://github.com/AngusMonroe/Active-NER)
@@ -24,4 +28,6 @@ Results of a Large-Scale Empirical Study, 2018, [Paper](https://aclanthology.org
 - Deep Active Learning for Named Entity Recognition, 2018, [Paper](https://aclanthology.org/W17-2630.pdf)
 
 - Dropout as a bayesian approximation: Representing model uncertainty in deep learning, 2016, [Paper](https://arxiv.org/abs/1506.02142) [Source code](https://github.com/yaringal/DropoutUncertaintyExps)
+
+- Active Discriminative Text Representation Learning, 2016, [Paper](https://arxiv.org/pdf/1606.04212.pdf)
 
