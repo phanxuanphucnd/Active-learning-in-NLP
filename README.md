@@ -20,6 +20,8 @@ Active Learning with Transformers, 2022, [Paper](https://arxiv.org/pdf/2107.0568
 
 - Active Learning for Sequence Tagging with Deep Pre-trained Models and Bayesian Uncertainty Estimates, 2021, [Paper](https://aclanthology.org/2021.eacl-main.145/)
 
+- Active Learning by Acquiring Contrastive Examples, 2021, [Paper](https://aclanthology.org/2021.emnlp-main.51.pdf) [Source code](https://github.com/mourga/contrastive-active-learning)
+
 - Diversity-Aware Batch Active Learning for Dependency Parsing, 2021, [Paper](https://arxiv.org/pdf/2104.13936.pdf) [Source code](https://github.com/tzshi/dpp-al-parsing-naacl21)
 
 - Deep Bayesian Active Learning for Natural Language Processing:
