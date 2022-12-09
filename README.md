@@ -26,7 +26,7 @@
 - Diversity-Aware Batch Active Learning for Dependency Parsing, 2021, [[Paper]](https://arxiv.org/pdf/2104.13936.pdf) [[Source code]](https://github.com/tzshi/dpp-al-parsing-naacl21)
 
 - Deep Bayesian Active Learning for Natural Language Processing:
-Results of a Large-Scale Empirical Study, 2018, [[Paper]](https://aclanthology.org/D18-1318.pdf) [Source code 1](https://github.com/asiddhant/Active-NLP) [2](https://github.com/AngusMonroe/Active-NER)
+Results of a Large-Scale Empirical Study, 2018, [[Paper]](https://aclanthology.org/D18-1318.pdf) [[Source code 1]](https://github.com/asiddhant/Active-NLP) [[2]](https://github.com/AngusMonroe/Active-NER)
 
 - Deep Active Learning for Named Entity Recognition, 2018, [[Paper]](https://aclanthology.org/W17-2630.pdf)
 
