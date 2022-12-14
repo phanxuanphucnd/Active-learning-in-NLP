@@ -1,5 +1,7 @@
 # Active learning in Nature Language Processing
 
+Reading List of Active learning by Phuc Phan © Copyright 2022.
+
 ### Surveys
 
 - A Survey of Active Learning for Natural Language Processing, 2022, [[Paper]](https://arxiv.org/abs/2210.10109)
@@ -25,6 +27,8 @@
 
 - Diversity-Aware Batch Active Learning for Dependency Parsing, 2021, [[Paper]](https://arxiv.org/pdf/2104.13936.pdf) [[Source code]](https://github.com/tzshi/dpp-al-parsing-naacl21)
 
+- Deep Active Learning: Unified and Principled Method for Query and Training, 2020, [[Paper]](https://arxiv.org/abs/1911.09162) [[Source code]](https://github.com/SineZHAN/deepALplus)
+
 - Deep Bayesian Active Learning for Natural Language Processing:
 Results of a Large-Scale Empirical Study, 2018, [[Paper]](https://aclanthology.org/D18-1318.pdf) [[Source code 1]](https://github.com/asiddhant/Active-NLP) [[2]](https://github.com/AngusMonroe/Active-NER)
 
@@ -33,4 +37,9 @@ Results of a Large-Scale Empirical Study, 2018, [[Paper]](https://aclanthology.o
 - Dropout as a bayesian approximation: Representing model uncertainty in deep learning, 2016, [[Paper]](https://arxiv.org/abs/1506.02142) [[Source code]](https://github.com/yaringal/DropoutUncertaintyExps)
 
 - Active Discriminative Text Representation Learning, 2016, [[Paper]](https://arxiv.org/pdf/1606.04212.pdf)
+
+
+### Toolkit
+
+- DeepAL+: Deep Active Learning Toolkit, [[url]](https://github.com/SineZHAN/deepALplus)
 
